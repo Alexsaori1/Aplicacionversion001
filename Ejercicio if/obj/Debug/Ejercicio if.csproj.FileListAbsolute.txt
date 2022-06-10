@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\Ejercicio if\Ejercicio if\bin\Debug\Ejercicio if.exe.config
+C:\Users\USUARIO\source\repos\Ejercicio if\Ejercicio if\bin\Debug\Ejercicio if.exe
+C:\Users\USUARIO\source\repos\Ejercicio if\Ejercicio if\bin\Debug\Ejercicio if.pdb
+C:\Users\USUARIO\source\repos\Ejercicio if\Ejercicio if\obj\Debug\Ejercicio if.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Ejercicio if\Ejercicio if\obj\Debug\Ejercicio if.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Ejercicio if\Ejercicio if\obj\Debug\Ejercicio if.exe
+C:\Users\USUARIO\source\repos\Ejercicio if\Ejercicio if\obj\Debug\Ejercicio if.pdb
