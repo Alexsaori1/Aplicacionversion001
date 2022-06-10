@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\EjercicioEscritoProgramacion\EjercicioEscritoProgramacion\bin\Debug\EjercicioEscritoProgramacion.exe.config
+C:\Users\USUARIO\source\repos\EjercicioEscritoProgramacion\EjercicioEscritoProgramacion\bin\Debug\EjercicioEscritoProgramacion.exe
+C:\Users\USUARIO\source\repos\EjercicioEscritoProgramacion\EjercicioEscritoProgramacion\bin\Debug\EjercicioEscritoProgramacion.pdb
+C:\Users\USUARIO\source\repos\EjercicioEscritoProgramacion\EjercicioEscritoProgramacion\obj\Debug\EjercicioEscritoProgramacion.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\EjercicioEscritoProgramacion\EjercicioEscritoProgramacion\obj\Debug\EjercicioEscritoProgramacion.Form1.resources
+C:\Users\USUARIO\source\repos\EjercicioEscritoProgramacion\EjercicioEscritoProgramacion\obj\Debug\EjercicioEscritoProgramacion.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\EjercicioEscritoProgramacion\EjercicioEscritoProgramacion\obj\Debug\EjercicioEscritoProgramacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\EjercicioEscritoProgramacion\EjercicioEscritoProgramacion\obj\Debug\EjercicioEscritoProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\EjercicioEscritoProgramacion\EjercicioEscritoProgramacion\obj\Debug\EjercicioEscritoProgramacion.exe
+C:\Users\USUARIO\source\repos\EjercicioEscritoProgramacion\EjercicioEscritoProgramacion\obj\Debug\EjercicioEscritoProgramacion.pdb
